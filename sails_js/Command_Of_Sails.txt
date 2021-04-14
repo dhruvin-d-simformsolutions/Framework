@@ -1,0 +1,5 @@
+To install sails globally : npm install sails -g
+create new sails application : sails new App_name
+to start server : sails lift
+
+Command for creating new API : sails generate api API_Name
